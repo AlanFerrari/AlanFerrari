@@ -1,5 +1,5 @@
 - 👋 Oi eu sou @AlanFerrari
 - 👀 Estou interessado em aprender linguagens de programação para me tornar um profissonal fullstacks um dia.
-- 🌱 Estou aprendendo algumas linguagens de programação no curso de desenvolvimento de sistemas da ETEC.
+- 🌱 Estou aprendendo algumas linguagens de programação no curso de desenvolvimento de sistemas da ETEC, atualmente estou no 2º Semestre.
 - 💞️ Posso coloborar nos projetos de outras pessoas se eu tiver conhecimento na linguagens usada.
 - 📫 Podem entra em contato comigo pelo LinkedIn [clicando aqui](https://www.linkedin.com/in/alan-ferrari-silva-589b29210/)
