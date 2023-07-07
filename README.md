@@ -21,6 +21,6 @@
   <a href = "mailto:alanferrari33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-ferrari-silva-589b29210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AlanFerrari/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AlanFerrari/AlanFerrari/blob/output/github-contribution-grid-snake.svg)
 
 </div>
